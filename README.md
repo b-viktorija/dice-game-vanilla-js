@@ -1,4 +1,4 @@
-# Dice game created in Vanilla J
+# Dice game created in Vanilla JS
   Random dice roll game, no framework\
   Consol log the numbers\
   Responsive
